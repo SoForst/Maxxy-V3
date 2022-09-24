@@ -1,0 +1,45 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "yPIN1jNjc5rSWpqQNW7mxRBJjeUoRIO92Qv0J8+3LXw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "y6cYJyxgelyUYWglBwXRtAizcgsFQvd+AKrN6ovz91Y="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "2KOAOm4IgX58YjfbdyTxaIgnadIpSprqjJPnEKog5FM="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "w4U8ykULlctXgd+JxmYklBM9N6UMUKX2WgtjOcV+5C4="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "cF922R01yYgli4SyFPnyezItB0Y6ThU/gJYxVAJMHnA="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "KqG22NyWK2YLfN72hq4zR2LjRHf0NJx1PMsmbdYZeRU="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "SgMXIUAke02JwDaRVRp/NCnih0x9KO4JnFVwGwOGIeGyqcAgfSVB6j3eCS2JuGdHk4uMav5DmLHr682IQ+5shQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 201,
+    "advSecretKey": "+uQukI71WP05gz/v3kRnG1urXInsswbNL61uZLothpk=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "6289501237003@s.whatsapp.net",
